@@ -1,1 +1,28 @@
-p{color:red;}
+<style>
+#header {
+    background-color:pink;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+#nav {
+    line-height:45px;
+    background-color:#eeeeee;
+    height:600px;
+    width:50px;
+    float:left;
+    padding:10px;         
+}
+#section {
+    width:700px;
+    float:left;
+    padding:10px;        
+}
+#footer {
+    background-color:pink;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:10px;         
+}
+</style>
